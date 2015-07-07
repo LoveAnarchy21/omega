@@ -1,0 +1,2 @@
+# omega
+my first repository
